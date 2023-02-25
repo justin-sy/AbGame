@@ -1,5 +1,5 @@
 # AbGame
-This is a python game developed using pygame.
+This is a python game developed using pygame. Launch a needle to hit the virus.
 
 # Start
 ```commandline
